@@ -1,0 +1,1 @@
+Based on [learninglaravel.com](https://learninglaravel.net/books/laravel/building-our-first-website) chapter 2 tutorial.
